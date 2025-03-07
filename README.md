@@ -6,3 +6,6 @@ This repository contains materials for the "Fundamentals of Containers, Kubernet
 ## Course Details
 ### **Module 1: Introduction to OpenShift**
 - **06/03/2025** - Start this course. Install git to connect with GitHub Account
+```bash
+dnf install git
+
