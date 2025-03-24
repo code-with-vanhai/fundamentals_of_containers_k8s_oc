@@ -8,4 +8,5 @@ This repository contains materials for the "Fundamentals of Containers, Kubernet
 - **06/03/2025** - Start this course. Install git to connect with GitHub Account
 ```bash
 dnf install git
+```
 - **24/03/2025** - Using OpenShift Resource
